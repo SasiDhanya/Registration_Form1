@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements
 * Clone this repository to your local machine
 * Create a MySQL database named application_form. You can change the database configuration in src/main/resources/application.properties if needed.
 
-  ![new db](https://github.com/paragERJ2EE/registration/assets/147278310/e429199f-d2c2-42ce-a92d-ca40c80a5353)
+# ![new db](https://github.com/paragERJ2EE/registration/assets/147278310/e429199f-d2c2-42ce-a92d-ca40c80a5353)
 
   
 # Running the Application
@@ -45,14 +45,17 @@ Before you begin, ensure you have met the following requirements
 # Usage
 * Visit http://localhost:8080/registration/ to access the registration form and manage registration records.
 
-  ![home](https://github.com/paragERJ2EE/registration/assets/147278310/cbfc5647-3179-4d29-bc7c-38e80796319b)
-
-* Use the form to insert new records click on insert tab at to right corner.
+* Use the form to insert new records click on insert Data tab at top right corner and for view records click on view records tab
   
+# ![home](https://github.com/paragERJ2EE/registration/assets/147278310/cbfc5647-3179-4d29-bc7c-38e80796319b)
 
-*
-*
-*
+*  Use the form to insert new records click on insert Data tab
+# ![insert data](https://github.com/paragERJ2EE/registration/assets/147278310/2eda3ceb-59c2-4c07-8d80-b14026108852)
+
+* Inserting new data
+# ![record inserted](https://github.com/paragERJ2EE/registration/assets/147278310/e4d610c3-63e2-479b-b87e-79591b6a815d)
+
+
 *  view existing records, edit records, or delete records.
 * Validation rules are applied for data entered in the registration form, and appropriate error messages are displayed if validation fails.
 * Records are paginated with 8 records per page.
