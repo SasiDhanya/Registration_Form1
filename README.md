@@ -93,8 +93,7 @@ Before you begin, ensure you have met the following requirements
 # ![Deleted records](https://github.com/paragERJ2EE/registration/assets/147278310/35feb310-3beb-43c4-be32-9225016dce4c)
 
 *  ID 13 Deleted successfully from Mysql Database also
-# ![Deleted records from mysql database also](https://github.com/paragERJ2EE/registration/assets/147278310/c3594213-5642-42c6-a66e-db6a023d32cb)
-
+# ![id de](https://github.com/paragERJ2EE/registration/assets/147278310/335f6707-8a0c-44d0-a3ff-7aba32d7c441)
 
 * List of all records save in Mysql Database
 # ![List of all records save in Mysql Database](https://github.com/paragERJ2EE/registration/assets/147278310/e8fc3b23-e59e-40da-9df4-b7b9cf89d0e2)
