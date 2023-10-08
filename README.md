@@ -93,9 +93,7 @@ Before you begin, ensure you have met the following requirements
 ![Deleted records from mysql database also](https://github.com/paragERJ2EE/registration/assets/147278310/3494c375-ba5e-4ee2-b767-be5a02b53695)
 
 * List of all records save in Mysql Database
-![List of all records save in Mysql Database](https://github.com/paragERJ2EE/registration/assets/147278310/2c8180b2-0d5d-4bbf-846b-c60568b684ab)
-
-![List of all records save in Mysql Database](https://github.com/paragERJ2EE/registration/assets/147278310/e8fc3b23-e59e-40da-9df4-b7b9cf89d0e2)
+# ![List of all records save in Mysql Database](https://github.com/paragERJ2EE/registration/assets/147278310/e8fc3b23-e59e-40da-9df4-b7b9cf89d0e2)
 
 
 # Project Structure
