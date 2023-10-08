@@ -48,7 +48,6 @@ Before you begin, ensure you have met the following requirements
   
 # ![home](https://github.com/paragERJ2EE/registration/assets/147278310/9ef1c7d4-53df-43da-88c6-029fb1ef775c)
 
-
 *  Use the form to insert new records click on insert Data tab
 # ![insert data](https://github.com/paragERJ2EE/registration/assets/147278310/a687738c-088a-47c4-ad92-4048c6d1d723)
 
@@ -60,7 +59,7 @@ Before you begin, ensure you have met the following requirements
 
 * Validation rules are applied for data entered in the registration form, and appropriate error messages are displayed if validation fails.
 *  For Pin (6 digit numeric), Email (use validation Only email allowed),
-![validation error](https://github.com/paragERJ2EE/registration/assets/147278310/e808a263-f8cd-419b-8e3a-9c3f846a2b6c)
+# ![validation error 2](https://github.com/paragERJ2EE/registration/assets/147278310/02dd695b-37c6-42a8-86e0-98a43c4c686f)
 
 * For Contact (10 digit numeric)
 # ![validation error](https://github.com/paragERJ2EE/registration/assets/147278310/b0abc6b3-95e6-4d34-953d-6a9f8d3f9381)
