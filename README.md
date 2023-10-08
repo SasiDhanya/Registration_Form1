@@ -96,7 +96,7 @@ Before you begin, ensure you have met the following requirements
 # ![id de](https://github.com/paragERJ2EE/registration/assets/147278310/335f6707-8a0c-44d0-a3ff-7aba32d7c441)
 
 * List of all records save in Mysql Database
-# ![List of all records save in Mysql Database](https://github.com/paragERJ2EE/registration/assets/147278310/e8fc3b23-e59e-40da-9df4-b7b9cf89d0e2)
+# ![db list](https://github.com/paragERJ2EE/registration/assets/147278310/cc78da86-492a-41bf-9be2-1d9c7b97884b)
 
 
 # Project Structure
