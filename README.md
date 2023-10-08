@@ -86,11 +86,14 @@ Before you begin, ensure you have met the following requirements
 ![name update](https://github.com/paragERJ2EE/registration/assets/147278310/169721e5-bb62-4c47-a94c-9a34ed2fb5c9)
 
 * I am Deleting ID 13 From records 
-![Delete](https://github.com/paragERJ2EE/registration/assets/147278310/d4ba7de3-255a-4b47-b4d2-9ad6adc2722c)
+# ![Delete](https://github.com/paragERJ2EE/registration/assets/147278310/4ba047b7-0b1a-4155-9467-fba392855372)
+
 * ID 13 Deleted successfully from Records List
-![Deleted records](https://github.com/paragERJ2EE/registration/assets/147278310/5128930c-9f6b-42c9-a1d6-b5c6865fb911)
+# ![Deleted records](https://github.com/paragERJ2EE/registration/assets/147278310/35feb310-3beb-43c4-be32-9225016dce4c)
+
 *  ID 13 Deleted successfully from Mysql Database also
-![Deleted records from mysql database also](https://github.com/paragERJ2EE/registration/assets/147278310/3494c375-ba5e-4ee2-b767-be5a02b53695)
+# ![Deleted records from mysql database also](https://github.com/paragERJ2EE/registration/assets/147278310/c3594213-5642-42c6-a66e-db6a023d32cb)
+
 
 * List of all records save in Mysql Database
 # ![List of all records save in Mysql Database](https://github.com/paragERJ2EE/registration/assets/147278310/e8fc3b23-e59e-40da-9df4-b7b9cf89d0e2)
