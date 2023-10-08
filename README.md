@@ -33,9 +33,8 @@ Before you begin, ensure you have met the following requirements
 * Clone this repository to your local machine
 * Create a MySQL database named application_form. You can change the database configuration in src/main/resources/application.properties if needed.
 
-![new db](https://github.com/paragERJ2EE/registration/assets/147278310/e429199f-d2c2-42ce-a92d-ca40c80a5353)
+# ![new db](https://github.com/paragERJ2EE/registration/assets/147278310/c5d178f5-34ff-4e12-b972-363d0e51788e)
 
-  
 # Running the Application
 * Open the project in your IDE
 * Build the project using Maven
@@ -47,23 +46,24 @@ Before you begin, ensure you have met the following requirements
 
 * Use the form to insert new records click on insert Data tab at top right corner and for view records click on view records tab
   
-![home](https://github.com/paragERJ2EE/registration/assets/147278310/cbfc5647-3179-4d29-bc7c-38e80796319b)
+# ![home](https://github.com/paragERJ2EE/registration/assets/147278310/9ef1c7d4-53df-43da-88c6-029fb1ef775c)
+
 
 *  Use the form to insert new records click on insert Data tab
-![insert data](https://github.com/paragERJ2EE/registration/assets/147278310/2eda3ceb-59c2-4c07-8d80-b14026108852)
+# ![insert data](https://github.com/paragERJ2EE/registration/assets/147278310/a687738c-088a-47c4-ad92-4048c6d1d723)
 
 * Inserting new data
-![record inserted](https://github.com/paragERJ2EE/registration/assets/147278310/e4d610c3-63e2-479b-b87e-79591b6a815d)
+# ![record inserted](https://github.com/paragERJ2EE/registration/assets/147278310/5b30b35a-b201-4c96-bb12-1a4e20e6307b)
 
 * Display Message: “Record inserted successfully”
-![record inserted mgs](https://github.com/paragERJ2EE/registration/assets/147278310/304861ac-ad5a-46c6-a44a-7cecf430038b)
+# ![record inserted mgs](https://github.com/paragERJ2EE/registration/assets/147278310/1b8d55fc-3f0d-439c-9f97-39d4b84d8cf8)
 
 * Validation rules are applied for data entered in the registration form, and appropriate error messages are displayed if validation fails.
 *  For Pin (6 digit numeric), Email (use validation Only email allowed),
 ![validation error](https://github.com/paragERJ2EE/registration/assets/147278310/e808a263-f8cd-419b-8e3a-9c3f846a2b6c)
 
 * For Contact (10 digit numeric)
-![validation error](https://github.com/paragERJ2EE/registration/assets/147278310/85f6c255-5dfb-4f93-a287-5800b51a9ebe)
+# ![validation error](https://github.com/paragERJ2EE/registration/assets/147278310/b0abc6b3-95e6-4d34-953d-6a9f8d3f9381)
 
 
 *  View existing records
