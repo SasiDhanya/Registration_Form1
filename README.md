@@ -1,5 +1,5 @@
 # Registration Application Form
-* The Spring Boot Registration Application Form is a web-based registration form that allows users to insert, view, update, and delete registration records. It provides a user-friendly interface for managing registration information
+* The Spring Boot Registration Application Form is a web-based registration form that allows users to insert, view, update, and delete registration records. It provides a user-friendly interface for managing registration information.
 
 # Table of Contents
 * Features
