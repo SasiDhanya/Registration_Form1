@@ -11,6 +11,11 @@
 * Technologies Used
 
 # Features
+* ID
+* Name
+* Profile photo 
+* Gender
+* Address 
 * City
 * Pin (6-digit numeric)
 * State
